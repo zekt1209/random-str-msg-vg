@@ -11,7 +11,7 @@
   "license": "MIT",
   "homepage": "https://github.com/zekt1209/random-str-msg-vg/blob/main#readme",
   "bin": {
-    "random-str-msg": "./bin/global.js"
+    "random-str-msg": "bin/global.js"
   },
   "preferGlobal": true,
   "dependencies": {
